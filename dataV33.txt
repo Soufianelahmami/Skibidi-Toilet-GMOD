@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/H4b4idu.jpg"},
+  {"desc2":"Garry's Mod, developed by Facepunch Studios, is a sandbox game that provides players with endless creative possibilities","photo2":"https://iili.io/H4b4h0X.webp"},
+  {"desc3":" With a vast array of user-generated content and a dedicated modding community, GMOD has become a hub for unique game modes and experiences","photo3":"https://iili.io/H4b46ge.jpg"},
+  {"desc4":" One such mode is Skibidi Toilet GMOD, which has gained significant popularity due to its distinct gameplay mechanics and innovative approach","photo4":"https://iili.io/H4b4jgn.webp"},
+  {"desc5":"Skibidi Toilet GMOD originated from the creative minds of modders within the GMOD community","photo5":"https://iili.io/H4b4s5b.jpg"},
+  {"descd":"Inspired by the viral Skibidi dance challenge, popularized by the Russian music group Little Big, this game mode combines the catchy tune with a quirky concept","photod":"https://iili.io/H4b4Lej.webp"}
    ]
  
 }
