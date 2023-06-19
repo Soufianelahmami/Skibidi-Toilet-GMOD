@@ -19,10 +19,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2445180-1",
+"yandex_inter":"R-M-2445180-3",
+"yandex_native":"R-M-2445180-2",
+"yandex_reward":"R-M-2445180-4",
   
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
@@ -31,16 +31,16 @@
 
   
  "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"Spider Cameraman Mod GMOD","package_name":"com.cameramanmod.garrycameraman","icon":"https://play-lh.googleusercontent.com/mpama0l9i_JAfnBOIGzXgYMs6M8ft2Ge0gZUuDdfVi3dDr99NxCQRe28FGaOXN6FHA=w240-h480-rw"},
+  {"name":"Skibidi Toilet For Gmod","package_name":"com.skibiditoilet.skibiditoiletgmod","icon":"https://play-lh.googleusercontent.com/w4VDQFBVqhaZO2eptx5NcwsDJ0DXMlEVu_RnVYA1a7Of02qI5NsqYVrEYI2tBBzrLDE=w240-h480-rw"},
+  {"name":"Cameraman Mod GMOD","package_name":"com.cameramanmod.gmodcameraman","icon":"https://play-lh.googleusercontent.com/Q5HjW-WxzCBOrkkZiABWDWQ8Q1j2ykPNm7WBo7QQ6FZuBFGff0W8K0eazWyn2IolzsU=w240-h480-rw"}
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
 
 },
