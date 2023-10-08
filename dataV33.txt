@@ -31,9 +31,9 @@
 
   
  "more_apps_info":[
-  {"name":"Garry's mod Apk ","package_name":"com.garry.apkmodlist","icon":"https://play-lh.googleusercontent.com/4ju0KdUAv7Pd0e4TEP1N4FHD9-53hlUkpChv6k9dwNQrvrjfV6bUAylEv9eZAB-HTyw=w240-h480-rw"},
-  {"name":"garry's mod apk mobile","package_name":"com.garryapk.mobileapk","icon":"https://play-lh.googleusercontent.com/5lNuJTu0CVBemO1iG1ACN95wMwJDpL2SiYYNSH2AX4gBwLp-PX1QkV1vXycJrHMBGags=w240-h480-rw"},
-  {"name":"garry's mod apk advice","package_name":"com.garryapk.gmodskin","icon":"https://play-lh.googleusercontent.com/rv9WUj4Fa2SlTbqMXdTx8O1txoZnAmcxZ4OR8Djrk6EDik6regB-r6ulh5GPFPAa3u4D=w240-h480-rw"}
+  {"name":"Garry's mod Apk ","package_name":"com.gameplaymod.boxgmod","icon":"https://play-lh.googleusercontent.com/4ju0KdUAv7Pd0e4TEP1N4FHD9-53hlUkpChv6k9dwNQrvrjfV6bUAylEv9eZAB-HTyw=w240-h480-rw"},
+  {"name":"garry's mod apk mobile","package_name":"com.gameplaymod.boxgmod","icon":"https://play-lh.googleusercontent.com/5lNuJTu0CVBemO1iG1ACN95wMwJDpL2SiYYNSH2AX4gBwLp-PX1QkV1vXycJrHMBGags=w240-h480-rw"},
+  {"name":"garry's mod apk advice","package_name":"com.gameplaymod.boxgmod","icon":"https://play-lh.googleusercontent.com/rv9WUj4Fa2SlTbqMXdTx8O1txoZnAmcxZ4OR8Djrk6EDik6regB-r6ulh5GPFPAa3u4D=w240-h480-rw"}
    ],
 
 "download_dialog_txt":"download text from server",
@@ -45,7 +45,7 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
+  {"desc1":"LAST TIPS FOR GMOD GAME ",
    "photo1":"https://iili.io/H4b4idu.jpg"},
   {"desc2":"Garry's Mod, developed by Facepunch Studios, is a sandbox game that provides players with endless creative possibilities","photo2":"https://iili.io/H4b4h0X.webp"},
   {"desc3":" With a vast array of user-generated content and a dedicated modding community, GMOD has become a hub for unique game modes and experiences","photo3":"https://iili.io/H4b46ge.jpg"},
